@@ -1,10 +1,12 @@
 #include <stdlib.h>
 #include "binary_trees.h"
 
-/**
- * main - Entry point
+/*
+ * Function: binary_tree_print
+ * ----------------------------
+ * Prints the binary tree in a visualized format.
  *
- * Return: Always zero (Success)
+ * tree: Pointer to the root of the binary tree.
  */
 int main(void)
 {
